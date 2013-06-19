@@ -11,4 +11,4 @@ This will include:
 * JS
 
 
-Next week we will learn Java
+Next week we will learn Java - just a test
