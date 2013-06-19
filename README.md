@@ -9,3 +9,6 @@ This will include:
 * HTML
 * CSS
 * JS
+
+
+Next week we will learn Java
